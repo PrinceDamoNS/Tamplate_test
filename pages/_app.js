@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Monster Free Next Js Dashboard Template</title>
+        <title>Monster Free Next Js Dashboard Templates</title>
         <meta
           name="description"
           content="Monster Free Next Js Dashboard Template"
